@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: eks-app-container
-        image: 710278174909.dkr.ecr.ap-northeast-2.amazonaws.com/eks-app:f89aefde2c8e5f9e8e4101b70d652e29df546c2e
+        image: 710278174909.dkr.ecr.ap-northeast-2.amazonaws.com/eks-app:3456308f41faebcd3923faea2306adaefb9207c3
         ports:
           - protocol: TCP
             containerPort: 8080
