@@ -4,4 +4,4 @@ metadata:
   name: db-service
 spec:
   type: ExternalName
-  externalName: eks-rds.calcpc0ijcbq.ap-northeast-2.rds.amazonaws.com
+  externalName: eks-private-rds.calcpc0ijcbq.ap-northeast-2.rds.amazonaws.com
